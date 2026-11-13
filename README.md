@@ -7,7 +7,7 @@
 - [x] 注册 GitHub 账号
 - [x] 给别人的项目点 Star（第一个：HowToLiveBetter）
 - [x] 创建自己的第一个仓库（就是这个 begin）
-- [ ] 学会用 README（正在做）
+- [x] 学会用 README（正在做）
 - [ ] 学会 Issues 和 Pull Request
 
 ## 为什么叫 begin
